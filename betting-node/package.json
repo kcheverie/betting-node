@@ -1,0 +1,22 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "betting game",
+  "main": "index.js",
+  "scripts": {
+    "test": "play"
+  },
+  "repository": {
+    "type": "git",
+    "url": "betting-node"
+  },
+  "keywords": [
+    "betting",
+    "game"
+  ],
+  "author": "kcheverie",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.0.4"
+  }
+}
